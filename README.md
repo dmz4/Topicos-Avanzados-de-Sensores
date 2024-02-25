@@ -1,5 +1,5 @@
 # Tópicos Avanzados de Sensores
-##Jorge Enrique García Delgado
-##Raymundo Reducindo Castillo
-##Diego Alejandro Dominguez Jaramillo
+## Jorge Enrique García Delgado
+## Raymundo Reducindo Castillo
+## Diego Alejandro Dominguez Jaramillo
 
