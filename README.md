@@ -1,2 +1,5 @@
-# Topicos-Avanzados-de-Sensores
- 
+# Tópicos Avanzados de Sensores
+Jorge Enrique García Delgado
+Raymundo Reducindo Castillo
+Diego Alejandro Dominguez Jaramillo
+
